@@ -2,7 +2,6 @@
 node_modules/
 
 # Environment (contains API keys)
-.env
 apis/.env
 
 # Runtime data
@@ -41,3 +40,7 @@ npm-debug.log*
 
 # Backup files
 *.bak
+
+# Local maintainer notes
+MAINTAINER_DECISIONS.local.md
+config.bat
