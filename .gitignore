@@ -2,7 +2,6 @@
 node_modules/
 
 # Environment (contains API keys)
-.env
 apis/.env
 
 # Runtime data
@@ -24,6 +23,7 @@ desktop.ini
 # Claude Code
 .claude/
 CLAUDE.md
+AGENTS.md
 
 
 # Playwright
@@ -44,3 +44,4 @@ npm-debug.log*
 
 # Local maintainer notes
 MAINTAINER_DECISIONS.local.md
+config.bat
